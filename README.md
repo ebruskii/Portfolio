@@ -1,0 +1,1 @@
+This is a folder to collect editions of my portfolios! These feature creative designs and their iterations, showing the frontend development of many of my projects seasonally. The most recent is Summer & Fall 2023, which also features some projects from a graphic design class I completed. 
